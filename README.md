@@ -1,4 +1,4 @@
-# Welcome to sorting algorithm
+# Welcome to selection sort
 I built this algorithm using the explanations of Bhargava on the book ***Grokking Algorithms: Second Edition***.
 
 The structure is really simple with two functions.
